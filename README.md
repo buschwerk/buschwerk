@@ -1,3 +1,3 @@
-# busche
-nice to have exchange point
-byebye
+# buesche
+nice to have ex-change point
+bye-bye
